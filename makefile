@@ -1,5 +1,5 @@
-default: main.cpp 
-	g++ main.cpp -o main.out 
+default: 
+	g++ HashTable.cpp -o HashTable.out 
 
 clean:
 	rm *.out
