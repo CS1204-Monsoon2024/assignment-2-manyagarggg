@@ -1,5 +1,5 @@
 default:
-	g++ main.cpp -o main.out
+	g++ -o main.out main.cpp
 
 clean:
 	rm *.out
